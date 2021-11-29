@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🎓 I am currently a university student.
 <!--
 **adrianiannantuono/adrianiannantuono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
