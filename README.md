@@ -1,4 +1,5 @@
 ### Hi there 👋
+Check out my website! <a href="http://adrianiannantuono.ca/" target="_blank">adrianiannantuono.ca</a>
 
 🎓 I am currently a university student.
 <!--
